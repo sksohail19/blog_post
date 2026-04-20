@@ -1,0 +1,802 @@
+[
+  {
+    "_id": "00000000000000000000012d",
+    "content": "Really enjoyed this breakdown. The section on nextjs was especially useful.",
+    "post": "0000000000000000000000c9",
+    "author": "00000000000000000000006c",
+    "authorSnapshot": {
+      "fullName": "Sai Iyer",
+      "username": "sai.iyer.8",
+      "profileImage": "https://i.pravatar.cc/150?img=1"
+    },
+    "parentComment": null,
+    "isEdited": true,
+    "isDeleted": true,
+    "createdAt": "2026-04-12T08:15:00.000Z",
+    "updatedAt": "2026-04-12T09:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000012e",
+    "content": "This was super helpful for my current project. The section on react was especially useful.",
+    "post": "0000000000000000000000ca",
+    "author": "00000000000000000000006d",
+    "authorSnapshot": {
+      "fullName": "Krishna Gupta",
+      "username": "krishna.gupta.9",
+      "profileImage": "https://i.pravatar.cc/150?img=2"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-11T09:15:00.000Z",
+    "updatedAt": "2026-04-11T10:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000012f",
+    "content": "I tried a similar approach last month. The section on typescript was especially useful.",
+    "post": "0000000000000000000000cb",
+    "author": "00000000000000000000006e",
+    "authorSnapshot": {
+      "fullName": "Ishaan Jain",
+      "username": "ishaan.jain.10",
+      "profileImage": "https://i.pravatar.cc/150?img=3"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-10T10:15:00.000Z",
+    "updatedAt": "2026-04-10T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000130",
+    "content": "The examples made this much easier to follow. The section on mongodb was especially useful.",
+    "post": "0000000000000000000000cc",
+    "author": "00000000000000000000006f",
+    "authorSnapshot": {
+      "fullName": "Anaya Malhotra",
+      "username": "anaya.malhotra.11",
+      "profileImage": "https://i.pravatar.cc/150?img=4"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-09T11:15:00.000Z",
+    "updatedAt": "2026-04-09T12:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000131",
+    "content": "This answered a question I was stuck on. The section on mongoose was especially useful.",
+    "post": "0000000000000000000000cd",
+    "author": "000000000000000000000070",
+    "authorSnapshot": {
+      "fullName": "Aadhya Bose",
+      "username": "aadhya.bose.12",
+      "profileImage": "https://i.pravatar.cc/150?img=5"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-08T12:15:00.000Z",
+    "updatedAt": "2026-04-08T13:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000132",
+    "content": "Appreciate how practical this write-up is. The section on nodejs was especially useful.",
+    "post": "0000000000000000000000ce",
+    "author": "000000000000000000000071",
+    "authorSnapshot": {
+      "fullName": "Kiara Rao",
+      "username": "kiara.rao.13",
+      "profileImage": "https://i.pravatar.cc/150?img=6"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-07T13:15:00.000Z",
+    "updatedAt": "2026-04-07T08:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000133",
+    "content": "Really enjoyed this breakdown. The section on api was especially useful.",
+    "post": "0000000000000000000000cf",
+    "author": "000000000000000000000072",
+    "authorSnapshot": {
+      "fullName": "Diya Das",
+      "username": "diya.das.14",
+      "profileImage": "https://i.pravatar.cc/150?img=7"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-06T08:15:00.000Z",
+    "updatedAt": "2026-04-06T09:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000134",
+    "content": "This was super helpful for my current project. The section on frontend was especially useful.",
+    "post": "0000000000000000000000d0",
+    "author": "000000000000000000000073",
+    "authorSnapshot": {
+      "fullName": "Saanvi Khan",
+      "username": "saanvi.khan.15",
+      "profileImage": "https://i.pravatar.cc/150?img=8"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-05T09:15:00.000Z",
+    "updatedAt": "2026-04-05T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000135",
+    "content": "I tried a similar approach last month. The section on backend was especially useful.",
+    "post": "0000000000000000000000d1",
+    "author": "000000000000000000000074",
+    "authorSnapshot": {
+      "fullName": "Pari Singh",
+      "username": "pari.singh.16",
+      "profileImage": "https://i.pravatar.cc/150?img=9"
+    },
+    "parentComment": null,
+    "isEdited": true,
+    "isDeleted": false,
+    "createdAt": "2026-04-04T10:15:00.000Z",
+    "updatedAt": "2026-04-04T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000136",
+    "content": "The examples made this much easier to follow. The section on fullstack was especially useful.",
+    "post": "0000000000000000000000d2",
+    "author": "000000000000000000000075",
+    "authorSnapshot": {
+      "fullName": "Myra Sharma",
+      "username": "myra.sharma.17",
+      "profileImage": "https://i.pravatar.cc/150?img=10"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-03T11:15:00.000Z",
+    "updatedAt": "2026-04-03T12:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000137",
+    "content": "This answered a question I was stuck on. The section on webdev was especially useful.",
+    "post": "0000000000000000000000d3",
+    "author": "000000000000000000000076",
+    "authorSnapshot": {
+      "fullName": "Aarohi Verma",
+      "username": "aarohi.verma.18",
+      "profileImage": "https://i.pravatar.cc/150?img=11"
+    },
+    "parentComment": "000000000000000000000136",
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-02T12:15:00.000Z",
+    "updatedAt": "2026-04-02T13:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000138",
+    "content": "Appreciate how practical this write-up is. The section on testing was especially useful.",
+    "post": "0000000000000000000000d4",
+    "author": "000000000000000000000077",
+    "authorSnapshot": {
+      "fullName": "Ira Patel",
+      "username": "ira.patel.19",
+      "profileImage": "https://i.pravatar.cc/150?img=12"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-01T13:15:00.000Z",
+    "updatedAt": "2026-04-01T08:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000139",
+    "content": "Really enjoyed this breakdown. The section on performance was especially useful.",
+    "post": "0000000000000000000000d5",
+    "author": "000000000000000000000078",
+    "authorSnapshot": {
+      "fullName": "Navya Reddy",
+      "username": "navya.reddy.20",
+      "profileImage": "https://i.pravatar.cc/150?img=13"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-31T08:15:00.000Z",
+    "updatedAt": "2026-03-31T09:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000013a",
+    "content": "This was super helpful for my current project. The section on seo was especially useful.",
+    "post": "0000000000000000000000d6",
+    "author": "000000000000000000000079",
+    "authorSnapshot": {
+      "fullName": "Rohan Mehta",
+      "username": "rohan.mehta.21",
+      "profileImage": "https://i.pravatar.cc/150?img=14"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-30T09:15:00.000Z",
+    "updatedAt": "2026-03-30T10:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000013b",
+    "content": "I tried a similar approach last month. The section on accessibility was especially useful.",
+    "post": "0000000000000000000000d7",
+    "author": "00000000000000000000007a",
+    "authorSnapshot": {
+      "fullName": "Kabir Kapoor",
+      "username": "kabir.kapoor.22",
+      "profileImage": "https://i.pravatar.cc/150?img=15"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-29T10:15:00.000Z",
+    "updatedAt": "2026-03-29T11:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000013c",
+    "content": "The examples made this much easier to follow. The section on deployment was especially useful.",
+    "post": "0000000000000000000000d8",
+    "author": "00000000000000000000007b",
+    "authorSnapshot": {
+      "fullName": "Meera Nair",
+      "username": "meera.nair.23",
+      "profileImage": "https://i.pravatar.cc/150?img=16"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-28T11:15:00.000Z",
+    "updatedAt": "2026-03-28T12:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000013d",
+    "content": "This answered a question I was stuck on. The section on security was especially useful.",
+    "post": "0000000000000000000000d9",
+    "author": "00000000000000000000007c",
+    "authorSnapshot": {
+      "fullName": "Naina Iyer",
+      "username": "naina.iyer.24",
+      "profileImage": "https://i.pravatar.cc/150?img=17"
+    },
+    "parentComment": null,
+    "isEdited": true,
+    "isDeleted": false,
+    "createdAt": "2026-03-27T12:15:00.000Z",
+    "updatedAt": "2026-03-27T13:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000013e",
+    "content": "Appreciate how practical this write-up is. The section on graphql was especially useful.",
+    "post": "0000000000000000000000da",
+    "author": "00000000000000000000007d",
+    "authorSnapshot": {
+      "fullName": "Aarav Gupta",
+      "username": "aarav.gupta.25",
+      "profileImage": "https://i.pravatar.cc/150?img=18"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-26T13:15:00.000Z",
+    "updatedAt": "2026-03-26T08:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000013f",
+    "content": "Really enjoyed this breakdown. The section on rest was especially useful.",
+    "post": "0000000000000000000000db",
+    "author": "00000000000000000000007e",
+    "authorSnapshot": {
+      "fullName": "Vivaan Jain",
+      "username": "vivaan.jain.26",
+      "profileImage": "https://i.pravatar.cc/150?img=19"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-25T08:15:00.000Z",
+    "updatedAt": "2026-03-25T09:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000140",
+    "content": "This was super helpful for my current project. The section on cloud was especially useful.",
+    "post": "0000000000000000000000dc",
+    "author": "00000000000000000000007f",
+    "authorSnapshot": {
+      "fullName": "Aditya Malhotra",
+      "username": "aditya.malhotra.27",
+      "profileImage": "https://i.pravatar.cc/150?img=20"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-24T09:15:00.000Z",
+    "updatedAt": "2026-03-24T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000141",
+    "content": "I tried a similar approach last month. The section on design was especially useful.",
+    "post": "0000000000000000000000dd",
+    "author": "000000000000000000000080",
+    "authorSnapshot": {
+      "fullName": "Vihaan Bose",
+      "username": "vihaan.bose.28",
+      "profileImage": "https://i.pravatar.cc/150?img=21"
+    },
+    "parentComment": "000000000000000000000140",
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-23T10:15:00.000Z",
+    "updatedAt": "2026-04-12T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000142",
+    "content": "The examples made this much easier to follow. The section on ux was especially useful.",
+    "post": "0000000000000000000000de",
+    "author": "000000000000000000000081",
+    "authorSnapshot": {
+      "fullName": "Arjun Rao",
+      "username": "arjun.rao.29",
+      "profileImage": "https://i.pravatar.cc/150?img=22"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-22T11:15:00.000Z",
+    "updatedAt": "2026-04-11T12:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000143",
+    "content": "This answered a question I was stuck on. The section on analytics was especially useful.",
+    "post": "0000000000000000000000df",
+    "author": "000000000000000000000082",
+    "authorSnapshot": {
+      "fullName": "Reyansh Das",
+      "username": "reyansh.das.30",
+      "profileImage": "https://i.pravatar.cc/150?img=23"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-21T12:15:00.000Z",
+    "updatedAt": "2026-04-10T13:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000144",
+    "content": "Appreciate how practical this write-up is. The section on automation was especially useful.",
+    "post": "0000000000000000000000e0",
+    "author": "000000000000000000000083",
+    "authorSnapshot": {
+      "fullName": "Muhammad Khan",
+      "username": "muhammad.khan.31",
+      "profileImage": "https://i.pravatar.cc/150?img=24"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": true,
+    "createdAt": "2026-03-20T13:15:00.000Z",
+    "updatedAt": "2026-04-09T08:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000145",
+    "content": "Really enjoyed this breakdown. The section on career was especially useful.",
+    "post": "0000000000000000000000e1",
+    "author": "000000000000000000000084",
+    "authorSnapshot": {
+      "fullName": "Sai Singh",
+      "username": "sai.singh.32",
+      "profileImage": "https://i.pravatar.cc/150?img=25"
+    },
+    "parentComment": null,
+    "isEdited": true,
+    "isDeleted": false,
+    "createdAt": "2026-03-19T08:15:00.000Z",
+    "updatedAt": "2026-04-08T09:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000146",
+    "content": "This was super helpful for my current project. The section on startup was especially useful.",
+    "post": "0000000000000000000000e2",
+    "author": "000000000000000000000085",
+    "authorSnapshot": {
+      "fullName": "Krishna Sharma",
+      "username": "krishna.sharma.33",
+      "profileImage": "https://i.pravatar.cc/150?img=26"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-18T09:15:00.000Z",
+    "updatedAt": "2026-04-07T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000147",
+    "content": "I tried a similar approach last month. The section on nextjs was especially useful.",
+    "post": "0000000000000000000000e3",
+    "author": "000000000000000000000086",
+    "authorSnapshot": {
+      "fullName": "Ishaan Verma",
+      "username": "ishaan.verma.34",
+      "profileImage": "https://i.pravatar.cc/150?img=27"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-17T10:15:00.000Z",
+    "updatedAt": "2026-04-06T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000148",
+    "content": "The examples made this much easier to follow. The section on react was especially useful.",
+    "post": "0000000000000000000000e4",
+    "author": "000000000000000000000087",
+    "authorSnapshot": {
+      "fullName": "Anaya Patel",
+      "username": "anaya.patel.35",
+      "profileImage": "https://i.pravatar.cc/150?img=28"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-16T11:15:00.000Z",
+    "updatedAt": "2026-04-05T12:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000149",
+    "content": "This answered a question I was stuck on. The section on typescript was especially useful.",
+    "post": "0000000000000000000000e5",
+    "author": "000000000000000000000088",
+    "authorSnapshot": {
+      "fullName": "Aadhya Reddy",
+      "username": "aadhya.reddy.36",
+      "profileImage": "https://i.pravatar.cc/150?img=29"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-15T12:15:00.000Z",
+    "updatedAt": "2026-04-04T13:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000014a",
+    "content": "Appreciate how practical this write-up is. The section on mongodb was especially useful.",
+    "post": "0000000000000000000000e6",
+    "author": "000000000000000000000089",
+    "authorSnapshot": {
+      "fullName": "Kiara Mehta",
+      "username": "kiara.mehta.37",
+      "profileImage": "https://i.pravatar.cc/150?img=30"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-14T13:15:00.000Z",
+    "updatedAt": "2026-04-03T08:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000014b",
+    "content": "Really enjoyed this breakdown. The section on mongoose was especially useful.",
+    "post": "0000000000000000000000e7",
+    "author": "00000000000000000000008a",
+    "authorSnapshot": {
+      "fullName": "Diya Kapoor",
+      "username": "diya.kapoor.38",
+      "profileImage": "https://i.pravatar.cc/150?img=31"
+    },
+    "parentComment": "00000000000000000000014a",
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-12T08:15:00.000Z",
+    "updatedAt": "2026-04-02T09:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000014c",
+    "content": "This was super helpful for my current project. The section on nodejs was especially useful.",
+    "post": "0000000000000000000000e8",
+    "author": "00000000000000000000008b",
+    "authorSnapshot": {
+      "fullName": "Saanvi Nair",
+      "username": "saanvi.nair.39",
+      "profileImage": "https://i.pravatar.cc/150?img=32"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-11T09:15:00.000Z",
+    "updatedAt": "2026-04-01T10:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000014d",
+    "content": "I tried a similar approach last month. The section on api was especially useful.",
+    "post": "0000000000000000000000e9",
+    "author": "00000000000000000000008c",
+    "authorSnapshot": {
+      "fullName": "Pari Iyer",
+      "username": "pari.iyer.40",
+      "profileImage": "https://i.pravatar.cc/150?img=33"
+    },
+    "parentComment": null,
+    "isEdited": true,
+    "isDeleted": false,
+    "createdAt": "2026-04-10T10:15:00.000Z",
+    "updatedAt": "2026-03-31T11:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000014e",
+    "content": "The examples made this much easier to follow. The section on frontend was especially useful.",
+    "post": "0000000000000000000000ea",
+    "author": "00000000000000000000008d",
+    "authorSnapshot": {
+      "fullName": "Myra Gupta",
+      "username": "myra.gupta.41",
+      "profileImage": "https://i.pravatar.cc/150?img=34"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-09T11:15:00.000Z",
+    "updatedAt": "2026-03-30T12:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000014f",
+    "content": "This answered a question I was stuck on. The section on backend was especially useful.",
+    "post": "0000000000000000000000eb",
+    "author": "00000000000000000000008e",
+    "authorSnapshot": {
+      "fullName": "Aarohi Jain",
+      "username": "aarohi.jain.42",
+      "profileImage": "https://i.pravatar.cc/150?img=35"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-08T12:15:00.000Z",
+    "updatedAt": "2026-03-29T13:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000150",
+    "content": "Appreciate how practical this write-up is. The section on fullstack was especially useful.",
+    "post": "0000000000000000000000ec",
+    "author": "00000000000000000000008f",
+    "authorSnapshot": {
+      "fullName": "Ira Malhotra",
+      "username": "ira.malhotra.43",
+      "profileImage": "https://i.pravatar.cc/150?img=36"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-07T13:15:00.000Z",
+    "updatedAt": "2026-03-28T08:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000151",
+    "content": "Really enjoyed this breakdown. The section on webdev was especially useful.",
+    "post": "0000000000000000000000ed",
+    "author": "000000000000000000000090",
+    "authorSnapshot": {
+      "fullName": "Navya Bose",
+      "username": "navya.bose.44",
+      "profileImage": "https://i.pravatar.cc/150?img=37"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-06T08:15:00.000Z",
+    "updatedAt": "2026-03-27T09:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000152",
+    "content": "This was super helpful for my current project. The section on testing was especially useful.",
+    "post": "0000000000000000000000ee",
+    "author": "000000000000000000000091",
+    "authorSnapshot": {
+      "fullName": "Rohan Rao",
+      "username": "rohan.rao.45",
+      "profileImage": "https://i.pravatar.cc/150?img=38"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-05T09:15:00.000Z",
+    "updatedAt": "2026-03-26T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000153",
+    "content": "I tried a similar approach last month. The section on performance was especially useful.",
+    "post": "0000000000000000000000ef",
+    "author": "000000000000000000000092",
+    "authorSnapshot": {
+      "fullName": "Kabir Das",
+      "username": "kabir.das.46",
+      "profileImage": "https://i.pravatar.cc/150?img=39"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-04T10:15:00.000Z",
+    "updatedAt": "2026-03-25T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000154",
+    "content": "The examples made this much easier to follow. The section on seo was especially useful.",
+    "post": "0000000000000000000000f0",
+    "author": "000000000000000000000093",
+    "authorSnapshot": {
+      "fullName": "Meera Khan",
+      "username": "meera.khan.47",
+      "profileImage": "https://i.pravatar.cc/150?img=40"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-03T11:15:00.000Z",
+    "updatedAt": "2026-03-24T12:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000155",
+    "content": "This answered a question I was stuck on. The section on accessibility was especially useful.",
+    "post": "0000000000000000000000f1",
+    "author": "000000000000000000000094",
+    "authorSnapshot": {
+      "fullName": "Naina Singh",
+      "username": "naina.singh.48",
+      "profileImage": "https://i.pravatar.cc/150?img=41"
+    },
+    "parentComment": "000000000000000000000154",
+    "isEdited": true,
+    "isDeleted": false,
+    "createdAt": "2026-04-02T12:15:00.000Z",
+    "updatedAt": "2026-04-12T13:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000156",
+    "content": "Appreciate how practical this write-up is. The section on deployment was especially useful.",
+    "post": "0000000000000000000000f2",
+    "author": "000000000000000000000095",
+    "authorSnapshot": {
+      "fullName": "Aarav Sharma",
+      "username": "aarav.sharma.49",
+      "profileImage": "https://i.pravatar.cc/150?img=42"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-04-01T13:15:00.000Z",
+    "updatedAt": "2026-04-11T08:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000157",
+    "content": "Really enjoyed this breakdown. The section on security was especially useful.",
+    "post": "0000000000000000000000f3",
+    "author": "000000000000000000000096",
+    "authorSnapshot": {
+      "fullName": "Vivaan Verma",
+      "username": "vivaan.verma.50",
+      "profileImage": "https://i.pravatar.cc/150?img=43"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-31T08:15:00.000Z",
+    "updatedAt": "2026-04-10T09:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000158",
+    "content": "This was super helpful for my current project. The section on graphql was especially useful.",
+    "post": "0000000000000000000000f4",
+    "author": "000000000000000000000065",
+    "authorSnapshot": {
+      "fullName": "Aarav Sharma",
+      "username": "aarav.sharma.1",
+      "profileImage": "https://i.pravatar.cc/150?img=44"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-30T09:15:00.000Z",
+    "updatedAt": "2026-04-09T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000159",
+    "content": "I tried a similar approach last month. The section on rest was especially useful.",
+    "post": "0000000000000000000000f5",
+    "author": "000000000000000000000066",
+    "authorSnapshot": {
+      "fullName": "Vivaan Verma",
+      "username": "vivaan.verma.2",
+      "profileImage": "https://i.pravatar.cc/150?img=45"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-29T10:15:00.000Z",
+    "updatedAt": "2026-04-08T11:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000015a",
+    "content": "The examples made this much easier to follow. The section on cloud was especially useful.",
+    "post": "0000000000000000000000f6",
+    "author": "000000000000000000000067",
+    "authorSnapshot": {
+      "fullName": "Aditya Patel",
+      "username": "aditya.patel.3",
+      "profileImage": "https://i.pravatar.cc/150?img=46"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-28T11:15:00.000Z",
+    "updatedAt": "2026-04-07T12:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000015b",
+    "content": "This answered a question I was stuck on. The section on design was especially useful.",
+    "post": "0000000000000000000000f7",
+    "author": "000000000000000000000068",
+    "authorSnapshot": {
+      "fullName": "Vihaan Reddy",
+      "username": "vihaan.reddy.4",
+      "profileImage": "https://i.pravatar.cc/150?img=47"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": true,
+    "createdAt": "2026-03-27T12:15:00.000Z",
+    "updatedAt": "2026-04-06T13:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000015c",
+    "content": "Appreciate how practical this write-up is. The section on ux was especially useful.",
+    "post": "0000000000000000000000f8",
+    "author": "000000000000000000000069",
+    "authorSnapshot": {
+      "fullName": "Arjun Mehta",
+      "username": "arjun.mehta.5",
+      "profileImage": "https://i.pravatar.cc/150?img=48"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-26T13:15:00.000Z",
+    "updatedAt": "2026-04-05T08:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000015d",
+    "content": "Really enjoyed this breakdown. The section on analytics was especially useful.",
+    "post": "0000000000000000000000f9",
+    "author": "00000000000000000000006a",
+    "authorSnapshot": {
+      "fullName": "Reyansh Kapoor",
+      "username": "reyansh.kapoor.6",
+      "profileImage": "https://i.pravatar.cc/150?img=49"
+    },
+    "parentComment": null,
+    "isEdited": true,
+    "isDeleted": false,
+    "createdAt": "2026-03-25T08:15:00.000Z",
+    "updatedAt": "2026-04-04T09:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000015e",
+    "content": "This was super helpful for my current project. The section on automation was especially useful.",
+    "post": "0000000000000000000000fa",
+    "author": "00000000000000000000006b",
+    "authorSnapshot": {
+      "fullName": "Muhammad Nair",
+      "username": "muhammad.nair.7",
+      "profileImage": "https://i.pravatar.cc/150?img=50"
+    },
+    "parentComment": null,
+    "isEdited": false,
+    "isDeleted": false,
+    "createdAt": "2026-03-24T09:15:00.000Z",
+    "updatedAt": "2026-04-03T10:15:00.000Z"
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "_id": "000000000000000000000065",
+    "firstName": "Aarav",
+    "lastName": "Sharma",
+    "username": "aarav.sharma.1",
+    "email": "aarav.sharma.1@example.com",
+    "phoneNumber": "+91-900001000",
+    "password": "Pass1word!",
+    "bio": "Aarav Sharma writes about practical software development, product thinking, and modern web workflows.",
+    "role": "admin",
+    "isVerified": false,
+    "isBlocked": true,
+    "socialLinks": {
+      "twitter": "https://twitter.com/aarav.sharma.1",
+      "facebook": "https://facebook.com/aarav.sharma.1",
+      "linkedin": "https://linkedin.com/in/aarav.sharma.1",
+      "instagram": "https://instagram.com/aarav.sharma.1"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 200,
+      "totalLikes": 15,
+      "totalComments": 2
+    },
+    "createdAt": "2025-09-24T08:15:00.000Z",
+    "updatedAt": "2026-04-07T08:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000066",
+    "firstName": "Vivaan",
+    "lastName": "Verma",
+    "username": "vivaan.verma.2",
+    "email": "vivaan.verma.2@example.com",
+    "phoneNumber": "+91-900001001",
+    "password": "Pass2word!",
+    "bio": "Vivaan Verma writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/vivaan.verma.2",
+      "facebook": "https://facebook.com/vivaan.verma.2",
+      "linkedin": "https://linkedin.com/in/vivaan.verma.2",
+      "instagram": "https://instagram.com/vivaan.verma.2"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 237,
+      "totalLikes": 18,
+      "totalComments": 3
+    },
+    "createdAt": "2025-09-25T09:15:00.000Z",
+    "updatedAt": "2026-04-06T09:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000067",
+    "firstName": "Aditya",
+    "lastName": "Patel",
+    "username": "aditya.patel.3",
+    "email": "aditya.patel.3@example.com",
+    "phoneNumber": "+91-900001002",
+    "password": "Pass3word!",
+    "bio": "Aditya Patel writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/aditya.patel.3",
+      "facebook": "https://facebook.com/aditya.patel.3",
+      "linkedin": "https://linkedin.com/in/aditya.patel.3",
+      "instagram": "https://instagram.com/aditya.patel.3"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 274,
+      "totalLikes": 21,
+      "totalComments": 4
+    },
+    "createdAt": "2025-09-26T10:15:00.000Z",
+    "updatedAt": "2026-04-05T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000068",
+    "firstName": "Vihaan",
+    "lastName": "Reddy",
+    "username": "vihaan.reddy.4",
+    "email": "vihaan.reddy.4@example.com",
+    "phoneNumber": "+91-900001003",
+    "password": "Pass4word!",
+    "bio": "Vihaan Reddy writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/vihaan.reddy.4",
+      "facebook": "https://facebook.com/vihaan.reddy.4",
+      "linkedin": "https://linkedin.com/in/vihaan.reddy.4",
+      "instagram": "https://instagram.com/vihaan.reddy.4"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 311,
+      "totalLikes": 24,
+      "totalComments": 5
+    },
+    "createdAt": "2025-09-27T08:15:00.000Z",
+    "updatedAt": "2026-04-04T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000069",
+    "firstName": "Arjun",
+    "lastName": "Mehta",
+    "username": "arjun.mehta.5",
+    "email": "arjun.mehta.5@example.com",
+    "phoneNumber": "+91-900001004",
+    "password": "Pass5word!",
+    "bio": "Arjun Mehta writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/arjun.mehta.5",
+      "facebook": "https://facebook.com/arjun.mehta.5",
+      "linkedin": "https://linkedin.com/in/arjun.mehta.5",
+      "instagram": "https://instagram.com/arjun.mehta.5"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 348,
+      "totalLikes": 27,
+      "totalComments": 6
+    },
+    "createdAt": "2025-09-28T09:15:00.000Z",
+    "updatedAt": "2026-04-03T12:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000006a",
+    "firstName": "Reyansh",
+    "lastName": "Kapoor",
+    "username": "reyansh.kapoor.6",
+    "email": "reyansh.kapoor.6@example.com",
+    "phoneNumber": "+91-900001005",
+    "password": "Pass6word!",
+    "bio": "Reyansh Kapoor writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/reyansh.kapoor.6",
+      "facebook": "https://facebook.com/reyansh.kapoor.6",
+      "linkedin": "https://linkedin.com/in/reyansh.kapoor.6",
+      "instagram": "https://instagram.com/reyansh.kapoor.6"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 385,
+      "totalLikes": 30,
+      "totalComments": 7
+    },
+    "createdAt": "2025-09-29T10:15:00.000Z",
+    "updatedAt": "2026-04-02T08:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000006b",
+    "firstName": "Muhammad",
+    "lastName": "Nair",
+    "username": "muhammad.nair.7",
+    "email": "muhammad.nair.7@example.com",
+    "phoneNumber": "+91-900001006",
+    "password": "Pass7word!",
+    "bio": "Muhammad Nair writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/muhammad.nair.7",
+      "facebook": "https://facebook.com/muhammad.nair.7",
+      "linkedin": "https://linkedin.com/in/muhammad.nair.7",
+      "instagram": "https://instagram.com/muhammad.nair.7"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 422,
+      "totalLikes": 33,
+      "totalComments": 2
+    },
+    "createdAt": "2025-09-30T08:15:00.000Z",
+    "updatedAt": "2026-04-01T09:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000006c",
+    "firstName": "Sai",
+    "lastName": "Iyer",
+    "username": "sai.iyer.8",
+    "email": "sai.iyer.8@example.com",
+    "phoneNumber": "+91-900001007",
+    "password": "Pass8word!",
+    "bio": "Sai Iyer writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/sai.iyer.8",
+      "facebook": "https://facebook.com/sai.iyer.8",
+      "linkedin": "https://linkedin.com/in/sai.iyer.8",
+      "instagram": "https://instagram.com/sai.iyer.8"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 459,
+      "totalLikes": 36,
+      "totalComments": 3
+    },
+    "createdAt": "2025-10-01T09:15:00.000Z",
+    "updatedAt": "2026-03-31T10:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000006d",
+    "firstName": "Krishna",
+    "lastName": "Gupta",
+    "username": "krishna.gupta.9",
+    "email": "krishna.gupta.9@example.com",
+    "phoneNumber": "+91-900001008",
+    "password": "Pass9word!",
+    "bio": "Krishna Gupta writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/krishna.gupta.9",
+      "facebook": "https://facebook.com/krishna.gupta.9",
+      "linkedin": "https://linkedin.com/in/krishna.gupta.9",
+      "instagram": "https://instagram.com/krishna.gupta.9"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 496,
+      "totalLikes": 39,
+      "totalComments": 4
+    },
+    "createdAt": "2025-10-02T10:15:00.000Z",
+    "updatedAt": "2026-03-30T11:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000006e",
+    "firstName": "Ishaan",
+    "lastName": "Jain",
+    "username": "ishaan.jain.10",
+    "email": "ishaan.jain.10@example.com",
+    "phoneNumber": "+91-900001009",
+    "password": "Pass10word!",
+    "bio": "Ishaan Jain writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/ishaan.jain.10",
+      "facebook": "https://facebook.com/ishaan.jain.10",
+      "linkedin": "https://linkedin.com/in/ishaan.jain.10",
+      "instagram": "https://instagram.com/ishaan.jain.10"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 533,
+      "totalLikes": 42,
+      "totalComments": 5
+    },
+    "createdAt": "2025-10-03T08:15:00.000Z",
+    "updatedAt": "2026-03-29T12:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000006f",
+    "firstName": "Anaya",
+    "lastName": "Malhotra",
+    "username": "anaya.malhotra.11",
+    "email": "anaya.malhotra.11@example.com",
+    "phoneNumber": "+91-900001010",
+    "password": "Pass11word!",
+    "bio": "Anaya Malhotra writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/anaya.malhotra.11",
+      "facebook": "https://facebook.com/anaya.malhotra.11",
+      "linkedin": "https://linkedin.com/in/anaya.malhotra.11",
+      "instagram": "https://instagram.com/anaya.malhotra.11"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 570,
+      "totalLikes": 45,
+      "totalComments": 6
+    },
+    "createdAt": "2025-10-04T09:15:00.000Z",
+    "updatedAt": "2026-03-28T08:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000070",
+    "firstName": "Aadhya",
+    "lastName": "Bose",
+    "username": "aadhya.bose.12",
+    "email": "aadhya.bose.12@example.com",
+    "phoneNumber": "+91-900001011",
+    "password": "Pass12word!",
+    "bio": "Aadhya Bose writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/aadhya.bose.12",
+      "facebook": "https://facebook.com/aadhya.bose.12",
+      "linkedin": "https://linkedin.com/in/aadhya.bose.12",
+      "instagram": "https://instagram.com/aadhya.bose.12"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 607,
+      "totalLikes": 48,
+      "totalComments": 7
+    },
+    "createdAt": "2025-10-05T10:15:00.000Z",
+    "updatedAt": "2026-03-27T09:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000071",
+    "firstName": "Kiara",
+    "lastName": "Rao",
+    "username": "kiara.rao.13",
+    "email": "kiara.rao.13@example.com",
+    "phoneNumber": "+91-900001012",
+    "password": "Pass13word!",
+    "bio": "Kiara Rao writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/kiara.rao.13",
+      "facebook": "https://facebook.com/kiara.rao.13",
+      "linkedin": "https://linkedin.com/in/kiara.rao.13",
+      "instagram": "https://instagram.com/kiara.rao.13"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 644,
+      "totalLikes": 51,
+      "totalComments": 2
+    },
+    "createdAt": "2025-10-06T08:15:00.000Z",
+    "updatedAt": "2026-03-26T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000072",
+    "firstName": "Diya",
+    "lastName": "Das",
+    "username": "diya.das.14",
+    "email": "diya.das.14@example.com",
+    "phoneNumber": "+91-900001013",
+    "password": "Pass14word!",
+    "bio": "Diya Das writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/diya.das.14",
+      "facebook": "https://facebook.com/diya.das.14",
+      "linkedin": "https://linkedin.com/in/diya.das.14",
+      "instagram": "https://instagram.com/diya.das.14"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 681,
+      "totalLikes": 54,
+      "totalComments": 3
+    },
+    "createdAt": "2025-10-07T09:15:00.000Z",
+    "updatedAt": "2026-03-25T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000073",
+    "firstName": "Saanvi",
+    "lastName": "Khan",
+    "username": "saanvi.khan.15",
+    "email": "saanvi.khan.15@example.com",
+    "phoneNumber": "+91-900001014",
+    "password": "Pass15word!",
+    "bio": "Saanvi Khan writes about practical software development, product thinking, and modern web workflows.",
+    "role": "admin",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/saanvi.khan.15",
+      "facebook": "https://facebook.com/saanvi.khan.15",
+      "linkedin": "https://linkedin.com/in/saanvi.khan.15",
+      "instagram": "https://instagram.com/saanvi.khan.15"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 718,
+      "totalLikes": 57,
+      "totalComments": 4
+    },
+    "createdAt": "2025-10-08T10:15:00.000Z",
+    "updatedAt": "2026-03-24T12:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000074",
+    "firstName": "Pari",
+    "lastName": "Singh",
+    "username": "pari.singh.16",
+    "email": "pari.singh.16@example.com",
+    "phoneNumber": "+91-900001015",
+    "password": "Pass16word!",
+    "bio": "Pari Singh writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/pari.singh.16",
+      "facebook": "https://facebook.com/pari.singh.16",
+      "linkedin": "https://linkedin.com/in/pari.singh.16",
+      "instagram": "https://instagram.com/pari.singh.16"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 755,
+      "totalLikes": 60,
+      "totalComments": 5
+    },
+    "createdAt": "2025-10-09T08:15:00.000Z",
+    "updatedAt": "2026-03-23T08:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000075",
+    "firstName": "Myra",
+    "lastName": "Sharma",
+    "username": "myra.sharma.17",
+    "email": "myra.sharma.17@example.com",
+    "phoneNumber": "+91-900001016",
+    "password": "Pass17word!",
+    "bio": "Myra Sharma writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/myra.sharma.17",
+      "facebook": "https://facebook.com/myra.sharma.17",
+      "linkedin": "https://linkedin.com/in/myra.sharma.17",
+      "instagram": "https://instagram.com/myra.sharma.17"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 792,
+      "totalLikes": 63,
+      "totalComments": 6
+    },
+    "createdAt": "2025-10-10T09:15:00.000Z",
+    "updatedAt": "2026-03-22T09:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000076",
+    "firstName": "Aarohi",
+    "lastName": "Verma",
+    "username": "aarohi.verma.18",
+    "email": "aarohi.verma.18@example.com",
+    "phoneNumber": "+91-900001017",
+    "password": "Pass18word!",
+    "bio": "Aarohi Verma writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/aarohi.verma.18",
+      "facebook": "https://facebook.com/aarohi.verma.18",
+      "linkedin": "https://linkedin.com/in/aarohi.verma.18",
+      "instagram": "https://instagram.com/aarohi.verma.18"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 829,
+      "totalLikes": 66,
+      "totalComments": 7
+    },
+    "createdAt": "2025-10-11T10:15:00.000Z",
+    "updatedAt": "2026-03-21T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000077",
+    "firstName": "Ira",
+    "lastName": "Patel",
+    "username": "ira.patel.19",
+    "email": "ira.patel.19@example.com",
+    "phoneNumber": "+91-900001018",
+    "password": "Pass19word!",
+    "bio": "Ira Patel writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/ira.patel.19",
+      "facebook": "https://facebook.com/ira.patel.19",
+      "linkedin": "https://linkedin.com/in/ira.patel.19",
+      "instagram": "https://instagram.com/ira.patel.19"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 866,
+      "totalLikes": 69,
+      "totalComments": 2
+    },
+    "createdAt": "2025-10-12T08:15:00.000Z",
+    "updatedAt": "2026-04-07T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000078",
+    "firstName": "Navya",
+    "lastName": "Reddy",
+    "username": "navya.reddy.20",
+    "email": "navya.reddy.20@example.com",
+    "phoneNumber": "+91-900001019",
+    "password": "Pass20word!",
+    "bio": "Navya Reddy writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": true,
+    "socialLinks": {
+      "twitter": "https://twitter.com/navya.reddy.20",
+      "facebook": "https://facebook.com/navya.reddy.20",
+      "linkedin": "https://linkedin.com/in/navya.reddy.20",
+      "instagram": "https://instagram.com/navya.reddy.20"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 903,
+      "totalLikes": 72,
+      "totalComments": 3
+    },
+    "createdAt": "2025-10-13T09:15:00.000Z",
+    "updatedAt": "2026-04-06T12:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000079",
+    "firstName": "Rohan",
+    "lastName": "Mehta",
+    "username": "rohan.mehta.21",
+    "email": "rohan.mehta.21@example.com",
+    "phoneNumber": "+91-900001020",
+    "password": "Pass21word!",
+    "bio": "Rohan Mehta writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/rohan.mehta.21",
+      "facebook": "https://facebook.com/rohan.mehta.21",
+      "linkedin": "https://linkedin.com/in/rohan.mehta.21",
+      "instagram": "https://instagram.com/rohan.mehta.21"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 940,
+      "totalLikes": 75,
+      "totalComments": 4
+    },
+    "createdAt": "2025-10-14T10:15:00.000Z",
+    "updatedAt": "2026-04-05T08:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000007a",
+    "firstName": "Kabir",
+    "lastName": "Kapoor",
+    "username": "kabir.kapoor.22",
+    "email": "kabir.kapoor.22@example.com",
+    "phoneNumber": "+91-900001021",
+    "password": "Pass22word!",
+    "bio": "Kabir Kapoor writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/kabir.kapoor.22",
+      "facebook": "https://facebook.com/kabir.kapoor.22",
+      "linkedin": "https://linkedin.com/in/kabir.kapoor.22",
+      "instagram": "https://instagram.com/kabir.kapoor.22"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 977,
+      "totalLikes": 78,
+      "totalComments": 5
+    },
+    "createdAt": "2025-10-15T08:15:00.000Z",
+    "updatedAt": "2026-04-04T09:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000007b",
+    "firstName": "Meera",
+    "lastName": "Nair",
+    "username": "meera.nair.23",
+    "email": "meera.nair.23@example.com",
+    "phoneNumber": "+91-900001022",
+    "password": "Pass23word!",
+    "bio": "Meera Nair writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/meera.nair.23",
+      "facebook": "https://facebook.com/meera.nair.23",
+      "linkedin": "https://linkedin.com/in/meera.nair.23",
+      "instagram": "https://instagram.com/meera.nair.23"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1014,
+      "totalLikes": 81,
+      "totalComments": 6
+    },
+    "createdAt": "2025-10-16T09:15:00.000Z",
+    "updatedAt": "2026-04-03T10:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000007c",
+    "firstName": "Naina",
+    "lastName": "Iyer",
+    "username": "naina.iyer.24",
+    "email": "naina.iyer.24@example.com",
+    "phoneNumber": "+91-900001023",
+    "password": "Pass24word!",
+    "bio": "Naina Iyer writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/naina.iyer.24",
+      "facebook": "https://facebook.com/naina.iyer.24",
+      "linkedin": "https://linkedin.com/in/naina.iyer.24",
+      "instagram": "https://instagram.com/naina.iyer.24"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1051,
+      "totalLikes": 84,
+      "totalComments": 7
+    },
+    "createdAt": "2025-10-17T10:15:00.000Z",
+    "updatedAt": "2026-04-02T11:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000007d",
+    "firstName": "Aarav",
+    "lastName": "Gupta",
+    "username": "aarav.gupta.25",
+    "email": "aarav.gupta.25@example.com",
+    "phoneNumber": "+91-900001024",
+    "password": "Pass25word!",
+    "bio": "Aarav Gupta writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/aarav.gupta.25",
+      "facebook": "https://facebook.com/aarav.gupta.25",
+      "linkedin": "https://linkedin.com/in/aarav.gupta.25",
+      "instagram": "https://instagram.com/aarav.gupta.25"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 1088,
+      "totalLikes": 87,
+      "totalComments": 2
+    },
+    "createdAt": "2025-10-18T08:15:00.000Z",
+    "updatedAt": "2026-04-01T12:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000007e",
+    "firstName": "Vivaan",
+    "lastName": "Jain",
+    "username": "vivaan.jain.26",
+    "email": "vivaan.jain.26@example.com",
+    "phoneNumber": "+91-900001025",
+    "password": "Pass26word!",
+    "bio": "Vivaan Jain writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/vivaan.jain.26",
+      "facebook": "https://facebook.com/vivaan.jain.26",
+      "linkedin": "https://linkedin.com/in/vivaan.jain.26",
+      "instagram": "https://instagram.com/vivaan.jain.26"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1125,
+      "totalLikes": 90,
+      "totalComments": 3
+    },
+    "createdAt": "2025-10-19T09:15:00.000Z",
+    "updatedAt": "2026-03-31T08:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000007f",
+    "firstName": "Aditya",
+    "lastName": "Malhotra",
+    "username": "aditya.malhotra.27",
+    "email": "aditya.malhotra.27@example.com",
+    "phoneNumber": "+91-900001026",
+    "password": "Pass27word!",
+    "bio": "Aditya Malhotra writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/aditya.malhotra.27",
+      "facebook": "https://facebook.com/aditya.malhotra.27",
+      "linkedin": "https://linkedin.com/in/aditya.malhotra.27",
+      "instagram": "https://instagram.com/aditya.malhotra.27"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1162,
+      "totalLikes": 93,
+      "totalComments": 4
+    },
+    "createdAt": "2025-10-20T10:15:00.000Z",
+    "updatedAt": "2026-03-30T09:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000080",
+    "firstName": "Vihaan",
+    "lastName": "Bose",
+    "username": "vihaan.bose.28",
+    "email": "vihaan.bose.28@example.com",
+    "phoneNumber": "+91-900001027",
+    "password": "Pass28word!",
+    "bio": "Vihaan Bose writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/vihaan.bose.28",
+      "facebook": "https://facebook.com/vihaan.bose.28",
+      "linkedin": "https://linkedin.com/in/vihaan.bose.28",
+      "instagram": "https://instagram.com/vihaan.bose.28"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1199,
+      "totalLikes": 96,
+      "totalComments": 5
+    },
+    "createdAt": "2025-10-21T08:15:00.000Z",
+    "updatedAt": "2026-03-29T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000081",
+    "firstName": "Arjun",
+    "lastName": "Rao",
+    "username": "arjun.rao.29",
+    "email": "arjun.rao.29@example.com",
+    "phoneNumber": "+91-900001028",
+    "password": "Pass29word!",
+    "bio": "Arjun Rao writes about practical software development, product thinking, and modern web workflows.",
+    "role": "admin",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/arjun.rao.29",
+      "facebook": "https://facebook.com/arjun.rao.29",
+      "linkedin": "https://linkedin.com/in/arjun.rao.29",
+      "instagram": "https://instagram.com/arjun.rao.29"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 1236,
+      "totalLikes": 99,
+      "totalComments": 6
+    },
+    "createdAt": "2025-10-22T09:15:00.000Z",
+    "updatedAt": "2026-03-28T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000082",
+    "firstName": "Reyansh",
+    "lastName": "Das",
+    "username": "reyansh.das.30",
+    "email": "reyansh.das.30@example.com",
+    "phoneNumber": "+91-900001029",
+    "password": "Pass30word!",
+    "bio": "Reyansh Das writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/reyansh.das.30",
+      "facebook": "https://facebook.com/reyansh.das.30",
+      "linkedin": "https://linkedin.com/in/reyansh.das.30",
+      "instagram": "https://instagram.com/reyansh.das.30"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1273,
+      "totalLikes": 102,
+      "totalComments": 7
+    },
+    "createdAt": "2025-10-23T10:15:00.000Z",
+    "updatedAt": "2026-03-27T12:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000083",
+    "firstName": "Muhammad",
+    "lastName": "Khan",
+    "username": "muhammad.khan.31",
+    "email": "muhammad.khan.31@example.com",
+    "phoneNumber": "+91-900001030",
+    "password": "Pass31word!",
+    "bio": "Muhammad Khan writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/muhammad.khan.31",
+      "facebook": "https://facebook.com/muhammad.khan.31",
+      "linkedin": "https://linkedin.com/in/muhammad.khan.31",
+      "instagram": "https://instagram.com/muhammad.khan.31"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1310,
+      "totalLikes": 105,
+      "totalComments": 2
+    },
+    "createdAt": "2025-10-24T08:15:00.000Z",
+    "updatedAt": "2026-03-26T08:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000084",
+    "firstName": "Sai",
+    "lastName": "Singh",
+    "username": "sai.singh.32",
+    "email": "sai.singh.32@example.com",
+    "phoneNumber": "+91-900001031",
+    "password": "Pass32word!",
+    "bio": "Sai Singh writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/sai.singh.32",
+      "facebook": "https://facebook.com/sai.singh.32",
+      "linkedin": "https://linkedin.com/in/sai.singh.32",
+      "instagram": "https://instagram.com/sai.singh.32"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1347,
+      "totalLikes": 108,
+      "totalComments": 3
+    },
+    "createdAt": "2025-10-25T09:15:00.000Z",
+    "updatedAt": "2026-03-25T09:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000085",
+    "firstName": "Krishna",
+    "lastName": "Sharma",
+    "username": "krishna.sharma.33",
+    "email": "krishna.sharma.33@example.com",
+    "phoneNumber": "+91-900001032",
+    "password": "Pass33word!",
+    "bio": "Krishna Sharma writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/krishna.sharma.33",
+      "facebook": "https://facebook.com/krishna.sharma.33",
+      "linkedin": "https://linkedin.com/in/krishna.sharma.33",
+      "instagram": "https://instagram.com/krishna.sharma.33"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 1384,
+      "totalLikes": 111,
+      "totalComments": 4
+    },
+    "createdAt": "2025-10-26T10:15:00.000Z",
+    "updatedAt": "2026-03-24T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000086",
+    "firstName": "Ishaan",
+    "lastName": "Verma",
+    "username": "ishaan.verma.34",
+    "email": "ishaan.verma.34@example.com",
+    "phoneNumber": "+91-900001033",
+    "password": "Pass34word!",
+    "bio": "Ishaan Verma writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/ishaan.verma.34",
+      "facebook": "https://facebook.com/ishaan.verma.34",
+      "linkedin": "https://linkedin.com/in/ishaan.verma.34",
+      "instagram": "https://instagram.com/ishaan.verma.34"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1421,
+      "totalLikes": 114,
+      "totalComments": 5
+    },
+    "createdAt": "2025-10-27T08:15:00.000Z",
+    "updatedAt": "2026-03-23T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000087",
+    "firstName": "Anaya",
+    "lastName": "Patel",
+    "username": "anaya.patel.35",
+    "email": "anaya.patel.35@example.com",
+    "phoneNumber": "+91-900001034",
+    "password": "Pass35word!",
+    "bio": "Anaya Patel writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/anaya.patel.35",
+      "facebook": "https://facebook.com/anaya.patel.35",
+      "linkedin": "https://linkedin.com/in/anaya.patel.35",
+      "instagram": "https://instagram.com/anaya.patel.35"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1458,
+      "totalLikes": 117,
+      "totalComments": 6
+    },
+    "createdAt": "2025-10-28T09:15:00.000Z",
+    "updatedAt": "2026-03-22T12:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000088",
+    "firstName": "Aadhya",
+    "lastName": "Reddy",
+    "username": "aadhya.reddy.36",
+    "email": "aadhya.reddy.36@example.com",
+    "phoneNumber": "+91-900001035",
+    "password": "Pass36word!",
+    "bio": "Aadhya Reddy writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/aadhya.reddy.36",
+      "facebook": "https://facebook.com/aadhya.reddy.36",
+      "linkedin": "https://linkedin.com/in/aadhya.reddy.36",
+      "instagram": "https://instagram.com/aadhya.reddy.36"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1495,
+      "totalLikes": 120,
+      "totalComments": 7
+    },
+    "createdAt": "2025-10-29T10:15:00.000Z",
+    "updatedAt": "2026-03-21T08:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000089",
+    "firstName": "Kiara",
+    "lastName": "Mehta",
+    "username": "kiara.mehta.37",
+    "email": "kiara.mehta.37@example.com",
+    "phoneNumber": "+91-900001036",
+    "password": "Pass37word!",
+    "bio": "Kiara Mehta writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/kiara.mehta.37",
+      "facebook": "https://facebook.com/kiara.mehta.37",
+      "linkedin": "https://linkedin.com/in/kiara.mehta.37",
+      "instagram": "https://instagram.com/kiara.mehta.37"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 1532,
+      "totalLikes": 123,
+      "totalComments": 2
+    },
+    "createdAt": "2025-10-30T08:15:00.000Z",
+    "updatedAt": "2026-04-07T09:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000008a",
+    "firstName": "Diya",
+    "lastName": "Kapoor",
+    "username": "diya.kapoor.38",
+    "email": "diya.kapoor.38@example.com",
+    "phoneNumber": "+91-900001037",
+    "password": "Pass38word!",
+    "bio": "Diya Kapoor writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/diya.kapoor.38",
+      "facebook": "https://facebook.com/diya.kapoor.38",
+      "linkedin": "https://linkedin.com/in/diya.kapoor.38",
+      "instagram": "https://instagram.com/diya.kapoor.38"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1569,
+      "totalLikes": 126,
+      "totalComments": 3
+    },
+    "createdAt": "2025-10-31T09:15:00.000Z",
+    "updatedAt": "2026-04-06T10:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000008b",
+    "firstName": "Saanvi",
+    "lastName": "Nair",
+    "username": "saanvi.nair.39",
+    "email": "saanvi.nair.39@example.com",
+    "phoneNumber": "+91-900001038",
+    "password": "Pass39word!",
+    "bio": "Saanvi Nair writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": true,
+    "socialLinks": {
+      "twitter": "https://twitter.com/saanvi.nair.39",
+      "facebook": "https://facebook.com/saanvi.nair.39",
+      "linkedin": "https://linkedin.com/in/saanvi.nair.39",
+      "instagram": "https://instagram.com/saanvi.nair.39"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1606,
+      "totalLikes": 129,
+      "totalComments": 4
+    },
+    "createdAt": "2025-11-01T10:15:00.000Z",
+    "updatedAt": "2026-04-05T11:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000008c",
+    "firstName": "Pari",
+    "lastName": "Iyer",
+    "username": "pari.iyer.40",
+    "email": "pari.iyer.40@example.com",
+    "phoneNumber": "+91-900001039",
+    "password": "Pass40word!",
+    "bio": "Pari Iyer writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/pari.iyer.40",
+      "facebook": "https://facebook.com/pari.iyer.40",
+      "linkedin": "https://linkedin.com/in/pari.iyer.40",
+      "instagram": "https://instagram.com/pari.iyer.40"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1643,
+      "totalLikes": 132,
+      "totalComments": 5
+    },
+    "createdAt": "2025-11-02T08:15:00.000Z",
+    "updatedAt": "2026-04-04T12:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000008d",
+    "firstName": "Myra",
+    "lastName": "Gupta",
+    "username": "myra.gupta.41",
+    "email": "myra.gupta.41@example.com",
+    "phoneNumber": "+91-900001040",
+    "password": "Pass41word!",
+    "bio": "Myra Gupta writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/myra.gupta.41",
+      "facebook": "https://facebook.com/myra.gupta.41",
+      "linkedin": "https://linkedin.com/in/myra.gupta.41",
+      "instagram": "https://instagram.com/myra.gupta.41"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 1680,
+      "totalLikes": 135,
+      "totalComments": 6
+    },
+    "createdAt": "2025-11-03T09:15:00.000Z",
+    "updatedAt": "2026-04-03T08:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000008e",
+    "firstName": "Aarohi",
+    "lastName": "Jain",
+    "username": "aarohi.jain.42",
+    "email": "aarohi.jain.42@example.com",
+    "phoneNumber": "+91-900001041",
+    "password": "Pass42word!",
+    "bio": "Aarohi Jain writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/aarohi.jain.42",
+      "facebook": "https://facebook.com/aarohi.jain.42",
+      "linkedin": "https://linkedin.com/in/aarohi.jain.42",
+      "instagram": "https://instagram.com/aarohi.jain.42"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1717,
+      "totalLikes": 138,
+      "totalComments": 7
+    },
+    "createdAt": "2025-11-04T10:15:00.000Z",
+    "updatedAt": "2026-04-02T09:15:00.000Z"
+  },
+  {
+    "_id": "00000000000000000000008f",
+    "firstName": "Ira",
+    "lastName": "Malhotra",
+    "username": "ira.malhotra.43",
+    "email": "ira.malhotra.43@example.com",
+    "phoneNumber": "+91-900001042",
+    "password": "Pass43word!",
+    "bio": "Ira Malhotra writes about practical software development, product thinking, and modern web workflows.",
+    "role": "admin",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/ira.malhotra.43",
+      "facebook": "https://facebook.com/ira.malhotra.43",
+      "linkedin": "https://linkedin.com/in/ira.malhotra.43",
+      "instagram": "https://instagram.com/ira.malhotra.43"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1754,
+      "totalLikes": 141,
+      "totalComments": 2
+    },
+    "createdAt": "2025-11-05T08:15:00.000Z",
+    "updatedAt": "2026-04-01T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000090",
+    "firstName": "Navya",
+    "lastName": "Bose",
+    "username": "navya.bose.44",
+    "email": "navya.bose.44@example.com",
+    "phoneNumber": "+91-900001043",
+    "password": "Pass44word!",
+    "bio": "Navya Bose writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/navya.bose.44",
+      "facebook": "https://facebook.com/navya.bose.44",
+      "linkedin": "https://linkedin.com/in/navya.bose.44",
+      "instagram": "https://instagram.com/navya.bose.44"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1791,
+      "totalLikes": 144,
+      "totalComments": 3
+    },
+    "createdAt": "2025-11-06T09:15:00.000Z",
+    "updatedAt": "2026-03-31T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000091",
+    "firstName": "Rohan",
+    "lastName": "Rao",
+    "username": "rohan.rao.45",
+    "email": "rohan.rao.45@example.com",
+    "phoneNumber": "+91-900001044",
+    "password": "Pass45word!",
+    "bio": "Rohan Rao writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/rohan.rao.45",
+      "facebook": "https://facebook.com/rohan.rao.45",
+      "linkedin": "https://linkedin.com/in/rohan.rao.45",
+      "instagram": "https://instagram.com/rohan.rao.45"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 1828,
+      "totalLikes": 147,
+      "totalComments": 4
+    },
+    "createdAt": "2025-11-07T10:15:00.000Z",
+    "updatedAt": "2026-03-30T12:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000092",
+    "firstName": "Kabir",
+    "lastName": "Das",
+    "username": "kabir.das.46",
+    "email": "kabir.das.46@example.com",
+    "phoneNumber": "+91-900001045",
+    "password": "Pass46word!",
+    "bio": "Kabir Das writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/kabir.das.46",
+      "facebook": "https://facebook.com/kabir.das.46",
+      "linkedin": "https://linkedin.com/in/kabir.das.46",
+      "instagram": "https://instagram.com/kabir.das.46"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1865,
+      "totalLikes": 150,
+      "totalComments": 5
+    },
+    "createdAt": "2025-11-08T08:15:00.000Z",
+    "updatedAt": "2026-03-29T08:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000093",
+    "firstName": "Meera",
+    "lastName": "Khan",
+    "username": "meera.khan.47",
+    "email": "meera.khan.47@example.com",
+    "phoneNumber": "+91-900001046",
+    "password": "Pass47word!",
+    "bio": "Meera Khan writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/meera.khan.47",
+      "facebook": "https://facebook.com/meera.khan.47",
+      "linkedin": "https://linkedin.com/in/meera.khan.47",
+      "instagram": "https://instagram.com/meera.khan.47"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1902,
+      "totalLikes": 153,
+      "totalComments": 6
+    },
+    "createdAt": "2025-11-09T09:15:00.000Z",
+    "updatedAt": "2026-03-28T09:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000094",
+    "firstName": "Naina",
+    "lastName": "Singh",
+    "username": "naina.singh.48",
+    "email": "naina.singh.48@example.com",
+    "phoneNumber": "+91-900001047",
+    "password": "Pass48word!",
+    "bio": "Naina Singh writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/naina.singh.48",
+      "facebook": "https://facebook.com/naina.singh.48",
+      "linkedin": "https://linkedin.com/in/naina.singh.48",
+      "instagram": "https://instagram.com/naina.singh.48"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 1939,
+      "totalLikes": 156,
+      "totalComments": 7
+    },
+    "createdAt": "2025-11-10T10:15:00.000Z",
+    "updatedAt": "2026-03-27T10:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000095",
+    "firstName": "Aarav",
+    "lastName": "Sharma",
+    "username": "aarav.sharma.49",
+    "email": "aarav.sharma.49@example.com",
+    "phoneNumber": "+91-900001048",
+    "password": "Pass49word!",
+    "bio": "Aarav Sharma writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": false,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/aarav.sharma.49",
+      "facebook": "https://facebook.com/aarav.sharma.49",
+      "linkedin": "https://linkedin.com/in/aarav.sharma.49",
+      "instagram": "https://instagram.com/aarav.sharma.49"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 0,
+      "totalViews": 1976,
+      "totalLikes": 159,
+      "totalComments": 2
+    },
+    "createdAt": "2025-11-11T08:15:00.000Z",
+    "updatedAt": "2026-03-26T11:15:00.000Z"
+  },
+  {
+    "_id": "000000000000000000000096",
+    "firstName": "Vivaan",
+    "lastName": "Verma",
+    "username": "vivaan.verma.50",
+    "email": "vivaan.verma.50@example.com",
+    "phoneNumber": "+91-900001049",
+    "password": "Pass50word!",
+    "bio": "Vivaan Verma writes about practical software development, product thinking, and modern web workflows.",
+    "role": "user",
+    "isVerified": true,
+    "isBlocked": false,
+    "socialLinks": {
+      "twitter": "https://twitter.com/vivaan.verma.50",
+      "facebook": "https://facebook.com/vivaan.verma.50",
+      "linkedin": "https://linkedin.com/in/vivaan.verma.50",
+      "instagram": "https://instagram.com/vivaan.verma.50"
+    },
+    "stats": {
+      "totalPosts": 1,
+      "totalPublishedPosts": 1,
+      "totalViews": 2013,
+      "totalLikes": 162,
+      "totalComments": 3
+    },
+    "createdAt": "2025-11-12T09:15:00.000Z",
+    "updatedAt": "2026-03-25T12:15:00.000Z"
+  }
+]
