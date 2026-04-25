@@ -1,7 +1,5 @@
 import mongoose from 'mongoose';
-import {  Schema } from 'mongoose';
-
-type PostStatus = 'draft' | 'published' | 'archived';
+import { Schema } from 'mongoose';
 
 const PostStats = new Schema({
     views: {
@@ -90,5 +88,5 @@ export const PostSchema = new Schema({
     }
 });
 
-const PostsModel = mongoose.model("Post", PostSchema);
+const PostsModel = mongoose.models.Post || mongoose.model("Post", PostSchema);
 export default PostsModel;
