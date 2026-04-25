@@ -9,6 +9,11 @@ const nextConfig: NextConfig = {
         hostname: "img.icons8.com",
         pathname: "/**",
       },
+      {
+        protocol: "https",
+        hostname: "picsum.photos",
+        pathname: "/**",
+      },
     ],
   },
 };

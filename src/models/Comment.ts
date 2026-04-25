@@ -1,5 +1,5 @@
-import mongoose from 'mongoose';
 import { Schema } from 'mongoose';
+import mongoose from 'mongoose';
 
 export const CommentSchema = new Schema({
     content: {
@@ -53,3 +53,6 @@ export const CommentSchema = new Schema({
         default: Date.now,
     }
 })
+
+const CommentModel = mongoose.models.Comment || mongoose.model("Comment", CommentSchema);
+export default CommentModel;
