@@ -6,7 +6,6 @@ import { useState } from "react";
 const navLinks = [
   { href: "/posts", label: "Essays" },
   { href: "/categories", label: "Collections" },
-  { href: "/about", label: "About" },
 ];
 
 export default function Navbar() {
@@ -47,6 +46,16 @@ export default function Navbar() {
                 </Link>
               </li>
             ))}
+            <li>
+              <a
+                href="https://sksohail19.vercel.app"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="rounded-full px-4 py-2 text-sm font-medium text-stone-600 transition duration-200 hover:bg-white hover:text-stone-950"
+              >
+                About
+              </a>
+            </li>
           </ul>
 
           <div className="ml-4 flex items-center gap-3">
